@@ -13,7 +13,7 @@ const CONFIG = {
   projects: [
     {
       name: `Elegy of the Twilight City`,
-      href: "https://github.com/morethanmin/morethan-log",
+      href: "https://github.com/",
     },
   ],
   // blog setting (required)
