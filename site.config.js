@@ -13,7 +13,7 @@ const CONFIG = {
   projects: [
     {
       name: `Elegy of the Twilight City`,
-      href: "https://github.com/",
+      href: "https://github.com",
     },
   ],
   // blog setting (required)
